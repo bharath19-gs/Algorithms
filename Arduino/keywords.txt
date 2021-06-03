@@ -1,0 +1,4 @@
+blink	KEYWORD1
+change 	KEYWORD2
+turnOn  KEYWORD3
+turnOff KEYWORD4
